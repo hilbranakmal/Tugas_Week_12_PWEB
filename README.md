@@ -1,9 +1,11 @@
-﻿# Muhammad Hilbran Akmal Abrar
-# 5025241052
+Nama  : Reza Afzaal Faizullah Taqy <br>
+NRP   : 5025241051 <br>
 
-<img width="807" height="560" alt="image" src="https://github.com/user-attachments/assets/f4849e16-1df2-4e11-bad0-d1ca627e5497" />
+Landing Page <br>
+<img width="912" height="454" alt="image" src="https://github.com/user-attachments/assets/08a967fe-5c51-4b57-9800-731492e1b726" />
 
-<img width="728" height="850" alt="image" src="https://github.com/user-attachments/assets/10da9973-16ed-452b-8945-36e8cd1776ba" />
+Form Pendaftaran <br>
+<img width="895" height="763" alt="image" src="https://github.com/user-attachments/assets/aaac5c53-d163-4a71-926d-8cc2c37e7640" />
 
-
-<img width="972" height="479" alt="image" src="https://github.com/user-attachments/assets/775bfbcd-ce41-4e39-ada5-630eb23bef29" />
+List Pendaftar <br>
+<img width="912" height="460" alt="image" src="https://github.com/user-attachments/assets/0f339847-0d8d-48ea-ae4b-489c0b63be17" />
